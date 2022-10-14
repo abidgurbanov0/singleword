@@ -3,4 +3,3 @@ pydantic==1.10.2
 PyPDF2==2.11.1
 starlette==0.20.4
 uvicorn==0.18.3
-gunicorn==19.0.0
